@@ -82,18 +82,18 @@ jobs:
           NEXUS_REPOSITORY: ${{ github.server_url }}/${{ github.repository }}
         run: npm run cli -- aggregate
 
+      - name: Build static API and site
+        env:
+          NEXUS_BASE_URL: ${{ format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+          NEXUS_REPOSITORY: ${{ github.server_url }}/${{ github.repository }}
+        run: npm run cli -- api --clean
+
       - name: Build EPG
         if: ${{ inputs.skip_epg != true }}
         continue-on-error: true
         env:
           NEXUS_BASE_URL: ${{ format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
         run: npm run cli -- epg
-
-      - name: Build static API and site
-        env:
-          NEXUS_BASE_URL: ${{ format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
-          NEXUS_REPOSITORY: ${{ github.server_url }}/${{ github.repository }}
-        run: npm run cli -- api --clean
 
       - name: Summarise
         id: summary
