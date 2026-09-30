@@ -1,9 +1,9 @@
 # Playlists
 
 > Generated automatically — do not edit by hand.
-> Last updated **2026-09-29 22:13 UTC**.
+> Last updated **2026-09-30 05:30 UTC**.
 
-9,985 channels with a working stream, out of 30,115 indexed. 12,566 streams responded on the last scan.
+10,009 channels with a working stream, out of 30,115 indexed. 12,566 streams responded on the last scan.
 
 ## Main playlists
 
@@ -38,42 +38,42 @@ One playlist per country, best stream per channel.
 
 | Country | Channels | Streams | URL |
 | --- | ---: | ---: | --- |
-| 🇺🇸 United States | 1,566 | 1,566 | `https://Martin6603.github.io/iptv/playlists/country/us.m3u` |
+| 🇺🇸 United States | 1,569 | 1,569 | `https://Martin6603.github.io/iptv/playlists/country/us.m3u` |
 | 🇮🇳 India | 690 | 690 | `https://Martin6603.github.io/iptv/playlists/country/in.m3u` |
 | 🇷🇺 Russia | 468 | 468 | `https://Martin6603.github.io/iptv/playlists/country/ru.m3u` |
 | 🇩🇪 Germany | 383 | 383 | `https://Martin6603.github.io/iptv/playlists/country/de.m3u` |
-| 🇧🇷 Brazil | 272 | 272 | `https://Martin6603.github.io/iptv/playlists/country/br.m3u` |
+| 🇧🇷 Brazil | 273 | 273 | `https://Martin6603.github.io/iptv/playlists/country/br.m3u` |
 | 🇮🇹 Italy | 252 | 252 | `https://Martin6603.github.io/iptv/playlists/country/it.m3u` |
 | 🇪🇸 Spain | 250 | 250 | `https://Martin6603.github.io/iptv/playlists/country/es.m3u` |
 | 🇩🇴 Dominican Republic | 247 | 247 | `https://Martin6603.github.io/iptv/playlists/country/do.m3u` |
-| 🇨🇱 Chile | 237 | 237 | `https://Martin6603.github.io/iptv/playlists/country/cl.m3u` |
+| 🇨🇱 Chile | 238 | 238 | `https://Martin6603.github.io/iptv/playlists/country/cl.m3u` |
 | 🇸🇪 Sweden | 201 | 201 | `https://Martin6603.github.io/iptv/playlists/country/se.m3u` |
 | 🇹🇷 Turkiye | 198 | 198 | `https://Martin6603.github.io/iptv/playlists/country/tr.m3u` |
-| 🇬🇧 United Kingdom | 192 | 192 | `https://Martin6603.github.io/iptv/playlists/country/uk.m3u` |
+| 🇬🇧 United Kingdom | 193 | 193 | `https://Martin6603.github.io/iptv/playlists/country/uk.m3u` |
 | 🇺🇦 Ukraine | 183 | 183 | `https://Martin6603.github.io/iptv/playlists/country/ua.m3u` |
 | 🇫🇷 France | 177 | 177 | `https://Martin6603.github.io/iptv/playlists/country/fr.m3u` |
+| 🇦🇷 Argentina | 174 | 174 | `https://Martin6603.github.io/iptv/playlists/country/ar.m3u` |
 | 🇳🇱 Netherlands | 171 | 171 | `https://Martin6603.github.io/iptv/playlists/country/nl.m3u` |
 | 🇵🇪 Peru | 171 | 171 | `https://Martin6603.github.io/iptv/playlists/country/pe.m3u` |
-| 🇦🇷 Argentina | 170 | 170 | `https://Martin6603.github.io/iptv/playlists/country/ar.m3u` |
-| 🇲🇽 Mexico | 168 | 168 | `https://Martin6603.github.io/iptv/playlists/country/mx.m3u` |
+| 🇲🇽 Mexico | 169 | 169 | `https://Martin6603.github.io/iptv/playlists/country/mx.m3u` |
 | 🇨🇳 China | 150 | 150 | `https://Martin6603.github.io/iptv/playlists/country/cn.m3u` |
 | 🇭🇺 Hungary | 132 | 132 | `https://Martin6603.github.io/iptv/playlists/country/hu.m3u` |
+| 🇨🇦 Canada | 132 | 132 | `https://Martin6603.github.io/iptv/playlists/country/ca.m3u` |
 | 🇮🇩 Indonesia | 132 | 132 | `https://Martin6603.github.io/iptv/playlists/country/id.m3u` |
-| 🇨🇦 Canada | 131 | 131 | `https://Martin6603.github.io/iptv/playlists/country/ca.m3u` |
-| 🇷🇴 Romania | 128 | 128 | `https://Martin6603.github.io/iptv/playlists/country/ro.m3u` |
+| 🇷🇴 Romania | 130 | 130 | `https://Martin6603.github.io/iptv/playlists/country/ro.m3u` |
 | 🇮🇷 Iran | 120 | 120 | `https://Martin6603.github.io/iptv/playlists/country/ir.m3u` |
 | 🇨🇴 Colombia | 115 | 115 | `https://Martin6603.github.io/iptv/playlists/country/co.m3u` |
-| 🇵🇱 Poland | 101 | 101 | `https://Martin6603.github.io/iptv/playlists/country/pl.m3u` |
+| 🇵🇱 Poland | 108 | 108 | `https://Martin6603.github.io/iptv/playlists/country/pl.m3u` |
 | 🇵🇰 Pakistan | 91 | 91 | `https://Martin6603.github.io/iptv/playlists/country/pk.m3u` |
 | 🇰🇷 South Korea | 81 | 81 | `https://Martin6603.github.io/iptv/playlists/country/kr.m3u` |
 | 🇪🇨 Ecuador | 80 | 80 | `https://Martin6603.github.io/iptv/playlists/country/ec.m3u` |
 | 🇻🇳 Vietnam | 80 | 80 | `https://Martin6603.github.io/iptv/playlists/country/vn.m3u` |
-| 🇭🇳 Honduras | 77 | 77 | `https://Martin6603.github.io/iptv/playlists/country/hn.m3u` |
+| 🇭🇳 Honduras | 78 | 78 | `https://Martin6603.github.io/iptv/playlists/country/hn.m3u` |
 | 🇹🇭 Thailand | 74 | 74 | `https://Martin6603.github.io/iptv/playlists/country/th.m3u` |
 | 🇬🇷 Greece | 72 | 72 | `https://Martin6603.github.io/iptv/playlists/country/gr.m3u` |
 | 🇧🇴 Bolivia | 72 | 72 | `https://Martin6603.github.io/iptv/playlists/country/bo.m3u` |
+| 🇨🇿 Czech Republic | 72 | 72 | `https://Martin6603.github.io/iptv/playlists/country/cz.m3u` |
 | 🇻🇪 Venezuela | 71 | 71 | `https://Martin6603.github.io/iptv/playlists/country/ve.m3u` |
-| 🇨🇿 Czech Republic | 71 | 71 | `https://Martin6603.github.io/iptv/playlists/country/cz.m3u` |
 | 🇨🇷 Costa Rica | 67 | 67 | `https://Martin6603.github.io/iptv/playlists/country/cr.m3u` |
 | 🇧🇬 Bulgaria | 65 | 65 | `https://Martin6603.github.io/iptv/playlists/country/bg.m3u` |
 | 🇬🇹 Guatemala | 65 | 65 | `https://Martin6603.github.io/iptv/playlists/country/gt.m3u` |
@@ -88,8 +88,8 @@ One playlist per country, best stream per channel.
 | 🇰🇿 Kazakhstan | 45 | 45 | `https://Martin6603.github.io/iptv/playlists/country/kz.m3u` |
 | 🇦🇺 Australia | 39 | 39 | `https://Martin6603.github.io/iptv/playlists/country/au.m3u` |
 | 🇧🇪 Belgium | 39 | 39 | `https://Martin6603.github.io/iptv/playlists/country/be.m3u` |
+| 🇸🇻 El Salvador | 39 | 39 | `https://Martin6603.github.io/iptv/playlists/country/sv.m3u` |
 | 🇰🇪 Kenya | 38 | 38 | `https://Martin6603.github.io/iptv/playlists/country/ke.m3u` |
-| 🇸🇻 El Salvador | 38 | 38 | `https://Martin6603.github.io/iptv/playlists/country/sv.m3u` |
 | 🇦🇪 United Arab Emirates | 37 | 37 | `https://Martin6603.github.io/iptv/playlists/country/ae.m3u` |
 | 🇲🇳 Mongolia | 37 | 37 | `https://Martin6603.github.io/iptv/playlists/country/mn.m3u` |
 | 🇺🇿 Uzbekistan | 33 | 33 | `https://Martin6603.github.io/iptv/playlists/country/uz.m3u` |
@@ -228,20 +228,20 @@ One playlist per category — news, sports, movies, music and so on.
 
 | Category | Channels | Streams | URL |
 | --- | ---: | ---: | --- |
-| General | 2,479 | 2,479 | `https://Martin6603.github.io/iptv/playlists/category/general.m3u` |
-| News | 956 | 956 | `https://Martin6603.github.io/iptv/playlists/category/news.m3u` |
-| Entertainment | 776 | 776 | `https://Martin6603.github.io/iptv/playlists/category/entertainment.m3u` |
+| General | 2,482 | 2,482 | `https://Martin6603.github.io/iptv/playlists/category/general.m3u` |
+| News | 957 | 957 | `https://Martin6603.github.io/iptv/playlists/category/news.m3u` |
+| Entertainment | 781 | 781 | `https://Martin6603.github.io/iptv/playlists/category/entertainment.m3u` |
 | Religious | 741 | 741 | `https://Martin6603.github.io/iptv/playlists/category/religious.m3u` |
-| Music | 727 | 727 | `https://Martin6603.github.io/iptv/playlists/category/music.m3u` |
-| Movies | 600 | 600 | `https://Martin6603.github.io/iptv/playlists/category/movies.m3u` |
-| Series | 394 | 394 | `https://Martin6603.github.io/iptv/playlists/category/series.m3u` |
-| Sports | 390 | 390 | `https://Martin6603.github.io/iptv/playlists/category/sports.m3u` |
+| Music | 730 | 730 | `https://Martin6603.github.io/iptv/playlists/category/music.m3u` |
+| Movies | 604 | 604 | `https://Martin6603.github.io/iptv/playlists/category/movies.m3u` |
+| Series | 396 | 396 | `https://Martin6603.github.io/iptv/playlists/category/series.m3u` |
+| Sports | 394 | 394 | `https://Martin6603.github.io/iptv/playlists/category/sports.m3u` |
 | Kids | 350 | 350 | `https://Martin6603.github.io/iptv/playlists/category/kids.m3u` |
 | Documentary | 213 | 213 | `https://Martin6603.github.io/iptv/playlists/category/documentary.m3u` |
 | Education | 200 | 200 | `https://Martin6603.github.io/iptv/playlists/category/education.m3u` |
-| Culture | 183 | 183 | `https://Martin6603.github.io/iptv/playlists/category/culture.m3u` |
+| Culture | 184 | 184 | `https://Martin6603.github.io/iptv/playlists/category/culture.m3u` |
 | Legislative | 179 | 179 | `https://Martin6603.github.io/iptv/playlists/category/legislative.m3u` |
-| Comedy | 156 | 156 | `https://Martin6603.github.io/iptv/playlists/category/comedy.m3u` |
+| Comedy | 157 | 157 | `https://Martin6603.github.io/iptv/playlists/category/comedy.m3u` |
 | Lifestyle | 127 | 127 | `https://Martin6603.github.io/iptv/playlists/category/lifestyle.m3u` |
 | Animation | 116 | 116 | `https://Martin6603.github.io/iptv/playlists/category/animation.m3u` |
 | Classic | 84 | 84 | `https://Martin6603.github.io/iptv/playlists/category/classic.m3u` |
@@ -252,7 +252,7 @@ One playlist per category — news, sports, movies, music and so on.
 | Cooking | 48 | 48 | `https://Martin6603.github.io/iptv/playlists/category/cooking.m3u` |
 | Family | 45 | 45 | `https://Martin6603.github.io/iptv/playlists/category/family.m3u` |
 | Public | 37 | 37 | `https://Martin6603.github.io/iptv/playlists/category/public.m3u` |
-| Auto | 23 | 23 | `https://Martin6603.github.io/iptv/playlists/category/auto.m3u` |
+| Auto | 24 | 24 | `https://Martin6603.github.io/iptv/playlists/category/auto.m3u` |
 | Science | 22 | 22 | `https://Martin6603.github.io/iptv/playlists/category/science.m3u` |
 | Weather | 16 | 16 | `https://Martin6603.github.io/iptv/playlists/category/weather.m3u` |
 | Relax | 9 | 9 | `https://Martin6603.github.io/iptv/playlists/category/relax.m3u` |
@@ -269,10 +269,10 @@ One playlist per broadcast language.
 
 | Language | Channels | Streams | URL |
 | --- | ---: | ---: | --- |
-| English | 2,466 | 2,466 | `https://Martin6603.github.io/iptv/playlists/language/eng.m3u` |
-| Spanish | 2,299 | 2,299 | `https://Martin6603.github.io/iptv/playlists/language/spa.m3u` |
+| English | 2,473 | 2,473 | `https://Martin6603.github.io/iptv/playlists/language/eng.m3u` |
+| Spanish | 2,309 | 2,309 | `https://Martin6603.github.io/iptv/playlists/language/spa.m3u` |
 | Russian | 601 | 601 | `https://Martin6603.github.io/iptv/playlists/language/rus.m3u` |
-| Portuguese | 475 | 475 | `https://Martin6603.github.io/iptv/playlists/language/por.m3u` |
+| Portuguese | 476 | 476 | `https://Martin6603.github.io/iptv/playlists/language/por.m3u` |
 | French | 450 | 450 | `https://Martin6603.github.io/iptv/playlists/language/fra.m3u` |
 | Arabic | 345 | 345 | `https://Martin6603.github.io/iptv/playlists/language/ara.m3u` |
 | Italian | 316 | 316 | `https://Martin6603.github.io/iptv/playlists/language/ita.m3u` |
@@ -283,14 +283,14 @@ One playlist per broadcast language.
 | Dutch | 192 | 192 | `https://Martin6603.github.io/iptv/playlists/language/nld.m3u` |
 | Ukrainian | 178 | 178 | `https://Martin6603.github.io/iptv/playlists/language/ukr.m3u` |
 | Turkish | 178 | 178 | `https://Martin6603.github.io/iptv/playlists/language/tur.m3u` |
-| Romanian | 159 | 159 | `https://Martin6603.github.io/iptv/playlists/language/ron.m3u` |
+| Romanian | 162 | 162 | `https://Martin6603.github.io/iptv/playlists/language/ron.m3u` |
 | Danish | 156 | 156 | `https://Martin6603.github.io/iptv/playlists/language/dan.m3u` |
 | Hungarian | 146 | 146 | `https://Martin6603.github.io/iptv/playlists/language/hun.m3u` |
 | Indonesian | 140 | 140 | `https://Martin6603.github.io/iptv/playlists/language/ind.m3u` |
 | Swedish | 138 | 138 | `https://Martin6603.github.io/iptv/playlists/language/swe.m3u` |
 | Norwegian | 119 | 119 | `https://Martin6603.github.io/iptv/playlists/language/nor.m3u` |
 | Tamil | 114 | 114 | `https://Martin6603.github.io/iptv/playlists/language/tam.m3u` |
-| Polish | 99 | 99 | `https://Martin6603.github.io/iptv/playlists/language/pol.m3u` |
+| Polish | 105 | 105 | `https://Martin6603.github.io/iptv/playlists/language/pol.m3u` |
 | Vietnamese | 97 | 97 | `https://Martin6603.github.io/iptv/playlists/language/vie.m3u` |
 | Korean | 93 | 93 | `https://Martin6603.github.io/iptv/playlists/language/kor.m3u` |
 | Bengali | 92 | 92 | `https://Martin6603.github.io/iptv/playlists/language/ben.m3u` |
