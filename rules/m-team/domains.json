@@ -1,0 +1,1706 @@
+{
+  "collected_at": "2026-10-05T20:40:43+08:00",
+  "date": "2026-10-05",
+  "time_zone": "Asia/Shanghai",
+  "scope": "通过用户已登录的 Chrome 浏览 M-Team 主要模块、控制台服务选项、移动及备用登录入口、公开导航页、工单页和官方 Wiki；仅记录主机名和脱敏来源。",
+  "pages_checked": [
+    {
+      "page_path": "https://kp.m-team.cc/browse/music",
+      "label": "音乐列表"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/index",
+      "label": "首页"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/browse/movie",
+      "label": "电影列表"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/browse/tvshow",
+      "label": "电视列表"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/detail/{id}",
+      "label": "电影种子详情"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/detail/{id}",
+      "label": "电影详情底部和截图区域"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/browse",
+      "label": "综合列表"
+    },
+    {
+      "page_path": "https://wiki.m-team.cc/zh-tw/home",
+      "label": "Wiki 首页和官方链接"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/browse/adult",
+      "label": "成人分类资源"
+    },
+    {
+      "page_path": "https://wiki.m-team.cc/zh-tw/siteurl",
+      "label": "官方网址入口说明"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/albums",
+      "label": "片单列表"
+    },
+    {
+      "page_path": "https://wiki.m-team.cc/zh-tw/download-rules",
+      "label": "Wiki 下载规则"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/forums",
+      "label": "论坛首页"
+    },
+    {
+      "page_path": "https://wiki.m-team.cc/zh-tw/faq",
+      "label": "Wiki 常见问题索引"
+    },
+    {
+      "page_path": "https://wiki.m-team.cc/zh-tw/trackerproblem",
+      "label": "Wiki Tracker 故障和服务器状态"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/seek",
+      "label": "求种列表"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/offer",
+      "label": "候选列表"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/subtitle",
+      "label": "字幕列表"
+    },
+    {
+      "page_path": "https://wiki.m-team.cc/zh-tw/cf-choose-better-ip",
+      "label": "Wiki Cloudflare 网络说明"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/team",
+      "label": "小组列表"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/showcase",
+      "label": "人物展示页面"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/showcase",
+      "label": "人物展示页面加载完成"
+    },
+    {
+      "page_path": "https://m-team.cc/",
+      "label": "官方域名导航站"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/usercp",
+      "label": "个人设定页面（仅域名）"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/usercp",
+      "label": "下载域名选项展开（未更改）"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/usercp",
+      "label": "Tracker 域名选项展开（未更改）"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/usercp",
+      "label": "RSS 域名选项展开（未更改）"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/browse/movie",
+      "label": "电影列表底部（触发后续封面加载）"
+    },
+    {
+      "page_path": "https://h5.m-team.cc/",
+      "label": "移动版登录入口（未登录）"
+    },
+    {
+      "page_path": "https://zp.m-team.io/login",
+      "label": "IO 入口登录页面（未登录）"
+    },
+    {
+      "page_path": "https://ob.m-team.cc/login",
+      "label": "旧版入口页面"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/browse",
+      "label": "游戏分类列表和底部封面"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/browse",
+      "label": "电子书分类列表和底部封面"
+    },
+    {
+      "page_path": "https://ticket.m-team.io/",
+      "label": "官方工单入口（未提交）"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/browse",
+      "label": "软件分类列表和底部封面"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/upload",
+      "label": "发布表单（未提交）"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/donate",
+      "label": "捐赠说明（未操作支付）"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/donate",
+      "label": "捐赠页面加载完成（未操作支付）"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/cards",
+      "label": "卡片页面（仅浏览）"
+    },
+    {
+      "page_path": "https://kp.m-team.cc/bet",
+      "label": "活动页面（仅浏览）"
+    }
+  ],
+  "limitations": [
+    "这是一次实际浏览所得的初始清单；未穷尽所有历史种子、帖子、用户图床、未来或未访问的功能。",
+    "页面入口、DOM 链接、资源清单和网关上游参数分别记录；出现域名不代表服务当前可用，也不证明域名法律归属。",
+    "浏览器观察资源清单可能保留 SPA 较早请求；observed_* 证据只证明本次浏览会话观察到该主机，不能当作每个页面的新请求。每个主机和证据类型仅保留首次记录，重复记录已归并；采集页面及状态单独列出。",
+    "nested_uri 仅证明图片 URL 参数引用该上游主机，不表示用户浏览器已经直接访问上游。nested_imdb、nested_douban 为资料链接目标。",
+    "备用和移动入口只查看了当前可访问页面或登录页；未执行额外登录、下载种子、探测 Tracker 或修改保存站点设置。",
+    "仅使用已观察到的精确主机名；未扩展根域通配规则、DNS 别名或猜测更多子域名。",
+    "外链和文档占位域名保留在记录中，但不加入任何规则文件。",
+    "记录已去除查询字符串、签名、passkey、账户信息和具体详情页编号。"
+  ],
+  "domains": [
+    {
+      "hostname": "82.imagebam.com",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/adult",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "api.gateway996.com",
+      "role": "service_dependency",
+      "purpose": "图片重定向网关；本次 Chrome 图片加载错误涉及的主机",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/cards",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "api.m-team.cc",
+      "role": "first_party",
+      "purpose": "站点 API 接口",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "api.m-team.io",
+      "role": "first_party",
+      "purpose": "站点 API 接口（io 域名）",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "api2.m-team.cc",
+      "role": "first_party",
+      "purpose": "补充 API／图片资源接口",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/showcase",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/showcase",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "avatars.githubusercontent.com",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "awsimgsrc.dmm.co.jp",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/adult",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "bangumi.tv",
+      "role": "external_link",
+      "purpose": "条目资料外链",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "book.douban.com",
+      "role": "external_link",
+      "purpose": "图书资料目标链接",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "nested_douban",
+          "note": "页面 URL 参数中的第三方目标主机"
+        }
+      ]
+    },
+    {
+      "hostname": "bt1.manfuz.co",
+      "role": "service_dependency",
+      "purpose": "控制台提供的种子下载服务地址；域名归属未独立核实",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "visible_text",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "visible_domain",
+          "note": "页面可见文字或代码示例中出现该域名（仅采集主机名）"
+        }
+      ]
+    },
+    {
+      "hostname": "docs.qnap.com",
+      "role": "external_link",
+      "purpose": "Wiki 引用的 QNAP 文档链接",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/cf-choose-better-ip",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "download.fastgit.org",
+      "role": "external_link",
+      "purpose": "Wiki 历史下载链接，未验证可用性",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/cf-choose-better-ip",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "et8.org",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "fonts.googleapis.com",
+      "role": "service_dependency",
+      "purpose": "移动版页面引用的 Google Fonts 样式资源（仅观察样式请求）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://h5.m-team.cc/",
+          "kind": "observed_stylesheet",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "fr1.halomt.com",
+      "role": "service_dependency",
+      "purpose": "控制台提供的种子下载服务地址；域名归属未独立核实",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "visible_text",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "github.com",
+      "role": "external_link",
+      "purpose": "Wiki 引用的项目和工具链接",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/cf-choose-better-ip",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/cf-choose-better-ip",
+          "kind": "visible_text",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "h5.m-team.cc",
+      "role": "first_party",
+      "purpose": "移动版入口及移动版资源",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://h5.m-team.cc/",
+          "kind": "page",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://h5.m-team.cc/",
+          "kind": "stylesheet_or_link",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://h5.m-team.cc/",
+          "kind": "script",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://h5.m-team.cc/",
+          "kind": "dom_attribute",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://h5.m-team.cc/",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://h5.m-team.cc/",
+          "kind": "observed_script",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://h5.m-team.cc/",
+          "kind": "observed_stylesheet",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://h5.m-team.cc/",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://h5.m-team.cc/",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "h5.m-team.io",
+      "role": "first_party",
+      "purpose": "页面提供的移动版入口（仅观察链接）",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://zp.m-team.io/login",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "hs1.holysalt.org",
+      "role": "service_dependency",
+      "purpose": "控制台提供的种子下载服务地址；域名归属未独立核实",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "visible_text",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "i.endpot.com",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/upload",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "i.postimg.cc",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "i.slow.pics",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "image.bingfong.com",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "image.tmdb.org",
+      "role": "service_dependency",
+      "purpose": "封面／海报图片来源",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "images2.imgbox.com",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/tvshow",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "img.m-team.cc",
+      "role": "first_party",
+      "purpose": "站内图片服务",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "img1.doubanio.com",
+      "role": "service_dependency",
+      "purpose": "图片网关 uri 参数中的豆瓣海报上游主机",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/movie",
+          "kind": "nested_uri",
+          "note": "页面 URL 参数中的第三方目标主机"
+        }
+      ]
+    },
+    {
+      "hostname": "img10.pixhost.to",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/adult",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "img2.doubanio.com",
+      "role": "service_dependency",
+      "purpose": "图片网关 uri 参数中的豆瓣海报上游主机",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/tvshow",
+          "kind": "nested_uri",
+          "note": "页面 URL 参数中的第三方目标主机"
+        }
+      ]
+    },
+    {
+      "hostname": "img3.doubanio.com",
+      "role": "service_dependency",
+      "purpose": "图片网关 uri 参数中的豆瓣海报上游主机",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/movie",
+          "kind": "nested_uri",
+          "note": "页面 URL 参数中的第三方目标主机"
+        }
+      ]
+    },
+    {
+      "hostname": "img9.doubanio.com",
+      "role": "service_dependency",
+      "purpose": "图片网关 uri 参数中的豆瓣海报上游主机",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "nested_uri",
+          "note": "页面 URL 参数中的第三方目标主机"
+        }
+      ]
+    },
+    {
+      "hostname": "imge.kugou.com",
+      "role": "service_dependency",
+      "purpose": "音乐封面图片来源",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "imgs.aventertainments.com",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/adult",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "ip.flares.cloud",
+      "role": "external_link",
+      "purpose": "Wiki 引用的 IP 查询链接",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/cf-choose-better-ip",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "kb.synology.cn",
+      "role": "external_link",
+      "purpose": "Wiki 引用的 Synology 文档链接",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/cf-choose-better-ip",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "kp.m-team.cc",
+      "role": "first_party",
+      "purpose": "当前桌面版主站入口",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "page",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_font",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/siteurl",
+          "kind": "visible_text",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "m-team.cc",
+      "role": "first_party",
+      "purpose": "公开站点导航入口",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/home",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/home",
+          "kind": "visible_text",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/cf-choose-better-ip",
+          "kind": "visible_domain",
+          "note": "页面可见文字或代码示例中出现该域名（仅采集主机名）"
+        },
+        {
+          "page_path": "https://m-team.cc/",
+          "kind": "page",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://m-team.cc/",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "m.media-amazon.com",
+      "role": "service_dependency",
+      "purpose": "图片网关 uri 参数中的海报上游主机",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/tvshow",
+          "kind": "nested_uri",
+          "note": "页面 URL 参数中的第三方目标主机"
+        }
+      ]
+    },
+    {
+      "hostname": "movie.douban.com",
+      "role": "external_link",
+      "purpose": "电影资料外链／目标链接",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "nested_douban",
+          "note": "页面 URL 参数中的第三方目标主机"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/detail/{id}",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "music.douban.com",
+      "role": "external_link",
+      "purpose": "音乐资料目标链接",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "nested_douban",
+          "note": "页面 URL 参数中的第三方目标主机"
+        }
+      ]
+    },
+    {
+      "hostname": "ob.m-team.cc",
+      "role": "first_party",
+      "purpose": "官方 Wiki 列出的入口，已查看登录页",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/siteurl",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/siteurl",
+          "kind": "visible_text",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://ob.m-team.cc/login",
+          "kind": "page",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://ob.m-team.cc/login",
+          "kind": "stylesheet_or_link",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://ob.m-team.cc/login",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://ob.m-team.cc/login",
+          "kind": "script",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://ob.m-team.cc/login",
+          "kind": "observed_stylesheet",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://ob.m-team.cc/login",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://ob.m-team.cc/login",
+          "kind": "observed_script",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://ob.m-team.cc/login",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "open.cd",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "origin.picgo.net",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "phoenix.xboxunity.net",
+      "role": "service_dependency",
+      "purpose": "游戏图片来源",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "pics.dmm.co.jp",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/adult",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "ptpimg.me",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "registry.hub.docker.com",
+      "role": "external_link",
+      "purpose": "Wiki 引用的容器镜像链接",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/cf-choose-better-ip",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "rss.m-team.cc",
+      "role": "first_party",
+      "purpose": "控制台提供的 RSS 服务地址",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "visible_text",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "visible_domain",
+          "note": "页面可见文字或代码示例中出现该域名（仅采集主机名）"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "rss.m-team.io",
+      "role": "first_party",
+      "purpose": "控制台提供的 RSS 服务地址（io 域名）",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "visible_text",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "visible_domain",
+          "note": "页面可见文字或代码示例中出现该域名（仅采集主机名）"
+        }
+      ]
+    },
+    {
+      "hostname": "s2.loli.net",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/upload",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "s3.bmp.ovh",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "shared.akamai.steamstatic.com",
+      "role": "service_dependency",
+      "purpose": "游戏封面图片来源",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "shared.fastly.steamstatic.com",
+      "role": "service_dependency",
+      "purpose": "游戏封面图片来源",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "static.m-team.cc",
+      "role": "first_party",
+      "purpose": "站点静态脚本、样式和图片资源",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "stylesheet_or_link",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "script",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_stylesheet",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_script",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://zp.m-team.io/login",
+          "kind": "dom_attribute",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "static.qobuz.com",
+      "role": "service_dependency",
+      "purpose": "音乐封面图片来源",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "static2.fnnas.com",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/upload",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "steamcdn-a.akamaihd.net",
+      "role": "service_dependency",
+      "purpose": "游戏封面图片来源",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "stock.hostmonit.com",
+      "role": "external_link",
+      "purpose": "Wiki 引用的 IP 查询链接",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/cf-choose-better-ip",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "t.me",
+      "role": "external_link",
+      "purpose": "官方 Wiki 中的 Telegram 外链",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/home",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/home",
+          "kind": "visible_text",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "ticket.m-team.io",
+      "role": "first_party",
+      "purpose": "工单支持入口",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/index",
+          "kind": "visible_text",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://ticket.m-team.io/",
+          "kind": "page",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://ticket.m-team.io/",
+          "kind": "stylesheet_or_link",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://ticket.m-team.io/",
+          "kind": "script",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://ticket.m-team.io/",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://ticket.m-team.io/",
+          "kind": "observed_stylesheet",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://ticket.m-team.io/",
+          "kind": "observed_script",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://ticket.m-team.io/",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://ticket.m-team.io/",
+          "kind": "observed_font",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://ticket.m-team.io/",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "tra1.m-team.cc",
+      "role": "first_party",
+      "purpose": "控制台提供的 Tracker 地址",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "visible_domain",
+          "note": "页面可见文字或代码示例中出现该域名（仅采集主机名）"
+        }
+      ]
+    },
+    {
+      "hostname": "tra1.m-team.io",
+      "role": "first_party",
+      "purpose": "控制台提供的 Tracker 地址（io 域名）",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "visible_domain",
+          "note": "页面可见文字或代码示例中出现该域名（仅采集主机名）"
+        }
+      ]
+    },
+    {
+      "hostname": "tra99.manfuz.co",
+      "role": "service_dependency",
+      "purpose": "控制台提供的 Tracker 地址；域名归属未独立核实",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "visible_domain",
+          "note": "页面可见文字或代码示例中出现该域名（仅采集主机名）"
+        }
+      ]
+    },
+    {
+      "hostname": "tracker.abcdef.com",
+      "role": "external_link",
+      "purpose": "Wiki 配置示例中的占位域名，非实际 M-Team Tracker",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/cf-choose-better-ip",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "tracker.m-team.cc",
+      "role": "first_party",
+      "purpose": "控制台提供的 Tracker 地址",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "visible_domain",
+          "note": "页面可见文字或代码示例中出现该域名（仅采集主机名）"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "tracker.m-team.io",
+      "role": "first_party",
+      "purpose": "控制台提供的 Tracker 地址（io 域名）",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/usercp",
+          "kind": "visible_domain",
+          "note": "页面可见文字或代码示例中出现该域名（仅采集主机名）"
+        }
+      ]
+    },
+    {
+      "hostname": "upload.wikimedia.org",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/upload",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "video.dmm.co.jp",
+      "role": "external_link",
+      "purpose": "作品资料外链",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/adult",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "wiki.js.org",
+      "role": "external_link",
+      "purpose": "Wiki 软件页脚链接",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/home",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "wiki.m-team.cc",
+      "role": "first_party",
+      "purpose": "官方 Wiki 和站点使用说明",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/home",
+          "kind": "page",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/home",
+          "kind": "stylesheet_or_link",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/home",
+          "kind": "script",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/home",
+          "kind": "observed_stylesheet",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/home",
+          "kind": "observed_script",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/home",
+          "kind": "observed_other",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/home",
+          "kind": "observed_font",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/home",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/trackerproblem",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "www.anduinos.com",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/upload",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "www.dmm.co.jp",
+      "role": "external_link",
+      "purpose": "作品资料外链",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/adult",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "www.douban.com",
+      "role": "external_link",
+      "purpose": "详情页可见的资料网站名称／链接",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/detail/{id}",
+          "kind": "visible_text",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "www.drive-image.com",
+      "role": "service_dependency",
+      "purpose": "页面嵌入或浏览器资源清单中出现的第三方图片来源（共享主机）",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "www.imdb.com",
+      "role": "external_link",
+      "purpose": "IMDb 资料目标链接",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "nested_imdb",
+          "note": "页面 URL 参数中的第三方目标主机"
+        }
+      ]
+    },
+    {
+      "hostname": "www.m-team.cc",
+      "role": "first_party",
+      "purpose": "公开导航页页脚链接（仅观察链接）",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://m-team.cc/",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "www.pescms.com",
+      "role": "external_link",
+      "purpose": "工单软件页脚链接",
+      "include_in_core": false,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://ticket.m-team.io/",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        }
+      ]
+    },
+    {
+      "hostname": "y.gtimg.cn",
+      "role": "service_dependency",
+      "purpose": "音乐封面图片来源",
+      "include_in_core": false,
+      "include_in_dependencies": true,
+      "evidence": [
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "image",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://kp.m-team.cc/browse/music",
+          "kind": "observed_image",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    },
+    {
+      "hostname": "zp.m-team.io",
+      "role": "first_party",
+      "purpose": "官方 Wiki 列出的备用入口，已查看登录页",
+      "include_in_core": true,
+      "include_in_dependencies": false,
+      "evidence": [
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/siteurl",
+          "kind": "link",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://wiki.m-team.cc/zh-tw/siteurl",
+          "kind": "visible_text",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://zp.m-team.io/login",
+          "kind": "page",
+          "note": "页面地址、链接或资源属性中出现"
+        },
+        {
+          "page_path": "https://zp.m-team.io/login",
+          "kind": "observed_font",
+          "note": "浏览器已观察资源清单中出现；SPA 页面可能保留此前请求"
+        }
+      ]
+    }
+  ]
+}
